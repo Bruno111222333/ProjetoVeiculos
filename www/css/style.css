@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=K2D');
+body{
+  background: 	#00FFFF;
+}
+
+h1{
+font-family: sans-serif;
+color: black;
+font-size : 30px;
+}
+
+h2{
+font-family: sans-serif;
+color: black;
+font-size: 18px; 
+}
+
+button{
+font-family: sans-serif;
+color: black;
+font-size: 20px;
+}
+
